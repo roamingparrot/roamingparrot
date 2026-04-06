@@ -16,7 +16,7 @@ i'm a linux enthusiast who likes building tools that scratch my own itches — m
  
 **systems & distros**
  
-[![Systems](https://lelouchfr.github.io/skill-icons/api/icons?i=nixos,debian,linux,apple,proxmox&theme=dark&perline=8)](https://github.com/LelouchFR/skill-icons)
+[![Systems](https://skillicons.dev/icons?i=nixos,debian,linux,apple&theme=dark&perline=8)](https://skillicons.dev)
 
 ---
 
