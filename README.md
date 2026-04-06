@@ -1,4 +1,11 @@
-# hey, i'm roamingparrot 🦜
+<pre align="center">
+██████╗  ██████╗  █████╗ ███╗   ███╗██╗███╗   ██╗ ██████╗ 
+██╔══██╗██╔═══██╗██╔══██╗████╗ ████║██║████╗  ██║██╔════╝ 
+██████╔╝██║   ██║███████║██╔████╔██║██║██╔██╗ ██║██║  ███╗
+██╔══██╗██║   ██║██╔══██║██║╚██╔╝██║██║██║╚██╗██║██║   ██║
+██║  ██║╚██████╔╝██║  ██║██║ ╚═╝ ██║██║██║ ╚████║╚██████╔╝
+╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 🦜
+</pre>
 
 i'm a linux enthusiast who likes building tools that scratch my own itches — mostly TUI apps and system utilities. currently living on **NixOS** with a **Hyprland** setup.
 
