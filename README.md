@@ -25,14 +25,14 @@ i'm a linux enthusiast who likes building tools that scratch my own itches — m
 
 ---
 
-### 🖥 my setup
-
-| | |
-|---|---|
-| **OS** | NixOS |
-| **WM** | Hyprland |
-| **Bar** | Waybar |
-| **Launcher** | Wofi |
-| **Shell** | Bash |
+<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<p align="center">
+  <a href="mailto:roamingparrot@protonmail.com">
+    <img src="https://img.shields.io/badge/-roamingparrot-6D4AFF?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:roamingparrot@protonmail.com"/>
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_USER">
+    <img src="https://img.shields.io/badge/-YOUR_DISCORD_USER-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/YOUR_DISCORD_USER"/>
+  </a>
+</p>
 
 ---
