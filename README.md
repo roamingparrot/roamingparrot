@@ -5,8 +5,18 @@ i'm a linux enthusiast who likes building tools that scratch my own itches — m
 ---
 
 ### 🛠 what i work with
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,nix,linux,bash,git,cmake&perline=7)](https://skillicons.dev)
+ 
+**languages**
+ 
+[![Languages](https://skillicons.dev/icons?i=cpp,python,nix,bash,rust&perline=8)](https://skillicons.dev)
+ 
+**tools & build**
+ 
+[![Tools](https://skillicons.dev/icons?i=git,cmake,docker,neovim&perline=8)](https://skillicons.dev)
+ 
+**systems & distros**
+ 
+[![Systems](https://skillicons.dev/icons?i=linux,debian&perline=8)](https://skillicons.dev)
 
 ---
 
