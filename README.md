@@ -30,8 +30,8 @@ i'm a linux enthusiast who likes building tools that scratch my own itches — m
   <a href="mailto:roamingparrot@protonmail.com">
     <img src="https://img.shields.io/badge/-roamingparrot-6D4AFF?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:roamingparrot@protonmail.com"/>
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_USER">
-    <img src="https://img.shields.io/badge/-YOUR_DISCORD_USER-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/YOUR_DISCORD_USER"/>
+  <a href="https://discord.com/users/roamingparrot">
+    <img src="https://img.shields.io/badge/-roamingparrot-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/YOUR_DISCORD_USER"/>
   </a>
 </p>
 
