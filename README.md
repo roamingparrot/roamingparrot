@@ -21,10 +21,6 @@ i'm a linux enthusiast who likes building tools that scratch my own itches — m
 <h3 align="center"><code>~/contact</code></h3>
 
 <p align="center">
-  <a href="mailto:roamingparrot@protonmail.com">
-    <img src="https://img.shields.io/badge/-roamingparrot-6D4AFF?style=flat-square&logo=protonmail&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/1212843947152515142">
-    <img src="https://img.shields.io/badge/-roamingparrot-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-  </a>
+  <a href="mailto:roamingparrot@protonmail.com"><img src="assets/protonmail.svg" width="48" alt="Proton Mail" /></a>&nbsp;
+  <a href="https://discord.com/users/1212843947152515142"><img src="https://skillicons.dev/icons?i=discord" width="48" alt="Discord" /></a>
 </p>
